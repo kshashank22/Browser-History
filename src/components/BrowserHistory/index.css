@@ -1,0 +1,32 @@
+.top-section {
+  background-color: #3367d6;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+}
+.search-section {
+  background-color: #2850a7;
+  margin: auto;
+  width: 500px;
+  height: 35px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.search-bar {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  width: 500px;
+  height: 35px;
+}
+.error-msg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.search-container {
+}
